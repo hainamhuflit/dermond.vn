@@ -251,7 +251,7 @@ body{
         }
 
         .about-img  img{
-            height: 450px;
+            width: 80%;
         }
 
         .about-content{
